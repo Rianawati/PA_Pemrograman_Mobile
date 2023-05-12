@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "452085057256",
+    "project_id": "electronix-power",
+    "storage_bucket": "electronix-power.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452085057256:android:e4bde5c9a906d4e8fceb5d",
+        "android_client_info": {
+          "package_name": "com.example.electronix_power"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452085057256-4qvm95lfd49vsq8adnto4ntb438nlje6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmxPO01SBDSTi3tiM8MKKdI-l9_1muKdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452085057256-4qvm95lfd49vsq8adnto4ntb438nlje6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
